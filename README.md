@@ -14,35 +14,32 @@ state_of_building:
 
 facades = Untouched
 bedrooms = Untouched, 1 big outlier
-fully_equipped_kitchen:
-	installed = installed
-	usa installed = installed
-	hyper equipped = hyper equipper
-	usa hyper equipped = hyper equipped
-	semi equipped = semi equipped
-	usa semi equipped = semi equipped
-	not installed = not installed
-	usa installed = not installed
-
+fully_equipped_kitchen: 4
+	installed = 2
+	usa installed = 2
+	hyper equipped = 4
+	usa hyper equipped = 4
+	semi equipped = 3
+	usa semi equipped = 3
+	not installed = 1
+	usa installed = 1
 furnished:
-	NaN = yes
-	rest unchanged
-open_fire: Untouched
-open_fire_YN: From open_fire, only yes and no.
+	yes = 1
+	no = 0
+open_fire:
+	yes = 1
+	no = 0
 zip_code: Untouched
 land_surface: Untouched
-terrace:
-	1 = yes
-	2 = no
+terrace: Untouched
 terrace_surface: Untouched
 swimming_pool:
-	NaN = no
+	yes = 1
+	no = 0
 
 type_property = Untouched
 subtype_property = Untouched
-garden:
-	1 = yes
-	2 = no
+garden: Untouched
 garden_surface: Untouched
 
 
