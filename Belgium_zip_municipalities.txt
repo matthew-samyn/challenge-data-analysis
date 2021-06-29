@@ -309,9 +309,9 @@ BE	3070	Kortenberg	Vlaanderen	VLG	Brabant Flamand	VBR	Leuven	24	50.8898	4.5435	4
 BE	3071	Erps-Kwerps	Vlaanderen	VLG	Brabant Flamand	VBR	Leuven	24	50.9012	4.5598	4
 BE	3078	Meerbeek	Vlaanderen	VLG	Brabant Flamand	VBR	Leuven	24	50.8821	4.5897	4
 BE	3078	Everberg	Vlaanderen	VLG	Brabant Flamand	VBR	Leuven	24	50.8768	4.5698	4
+BE	3080	Tervuren	Vlaanderen	VLG	Brabant Flamand	VBR	Leuven	24	50.8237	4.5142	4
 BE	3080	Duisburg	Vlaanderen	VLG	Brabant Flamand	VBR	Leuven	24	50.8158	4.5553	4
 BE	3080	Vossem	Vlaanderen	VLG	Brabant Flamand	VBR	Leuven	24	50.8363	4.5604	4
-BE	3080	Tervuren	Vlaanderen	VLG	Brabant Flamand	VBR	Leuven	24	50.8237	4.5142	4
 BE	3090	Overijse	Vlaanderen	VLG	Brabant Flamand	VBR	Halle-Vilvoorde	23	50.7744	4.5346	4
 BE	3110	Rotselaar	Vlaanderen	VLG	Brabant Flamand	VBR	Leuven	24	50.953	4.7167	4
 BE	3111	Wezemaal	Vlaanderen	VLG	Brabant Flamand	VBR	Leuven	24	50.9485	4.7554	4
@@ -466,9 +466,9 @@ BE	3630	Leut	Vlaanderen	VLG	Limbourg	VLI	Tongeren	73	50.9911	5.7362	4
 BE	3630	Maasmechelen	Vlaanderen	VLG	Limbourg	VLI	Tongeren	73	50.9655	5.6945	4
 BE	3631	Uikhoven	Vlaanderen	VLG	Limbourg	VLI	Tongeren	73	50.9239	5.7192	4
 BE	3631	Boorsem	Vlaanderen	VLG	Limbourg	VLI	Tongeren	73	50.9421	5.719	4
+BE	3640	Kinrooi	Vlaanderen	VLG	Limbourg	VLI	Maaseik	72	51.1454	5.7421	4
 BE	3640	Molenbeersel	Vlaanderen	VLG	Limbourg	VLI	Maaseik	72	51.1704	5.7376	4
 BE	3640	Kessenich	Vlaanderen	VLG	Limbourg	VLI	Maaseik	72	51.1509	5.8233	4
-BE	3640	Kinrooi	Vlaanderen	VLG	Limbourg	VLI	Maaseik	72	51.1454	5.7421	4
 BE	3640	Ophoven	Vlaanderen	VLG	Limbourg	VLI	Maaseik	72	51.0822	5.5697	4
 BE	3650	Dilsen-Stokkem	Vlaanderen	VLG	Limbourg	VLI	Maaseik	72	51.0305	5.7347	4
 BE	3650	Elen	Vlaanderen	VLG	Limbourg	VLI	Maaseik	72	51.0664	5.7513	4
@@ -1093,8 +1093,8 @@ BE	8647	Noordschote	Vlaanderen	VLG	Flandre-Occidentale	VWV	Diksmuide	32	50.9548	
 BE	8647	Reninge	Vlaanderen	VLG	Flandre-Occidentale	VWV	Diksmuide	32	50.9478	2.7889	4
 BE	8647	Lo	Vlaanderen	VLG	Flandre-Occidentale	VWV	Diksmuide	32	50.9804	2.7496	4
 BE	8647	Lo-Reninge	Vlaanderen	VLG	Flandre-Occidentale	VWV	Diksmuide	32	50.9635	2.7704	3
-BE	8650	Klerken	Vlaanderen	VLG	Flandre-Occidentale	VWV	Diksmuide	32	50.9964	2.9077	4
 BE	8650	Houthulst	Vlaanderen	VLG	Flandre-Occidentale	VWV	Diksmuide	32	50.9782	2.9505	4
+BE	8650	Klerken	Vlaanderen	VLG	Flandre-Occidentale	VWV	Diksmuide	32	50.9964	2.9077	4
 BE	8650	Merkem	Vlaanderen	VLG	Flandre-Occidentale	VWV	Diksmuide	32	50.9528	2.8523	4
 BE	8660	Adinkerke	Vlaanderen	VLG	Flandre-Occidentale	VWV	Veurne	38	51.0741	2.5991	4
 BE	8660	De Panne	Vlaanderen	VLG	Flandre-Occidentale	VWV	Veurne	38	51.0979	2.5937	4
@@ -1156,9 +1156,9 @@ BE	8860	Lendelede	Vlaanderen	VLG	Flandre-Occidentale	VWV	Kortrijk	34	50.8863	3.2
 BE	8870	Izegem	Vlaanderen	VLG	Flandre-Occidentale	VWV	Roeselare	36	50.914	3.2138	4
 BE	8870	Emelgem	Vlaanderen	VLG	Flandre-Occidentale	VWV	Roeselare	36	50.9238	3.2303	4
 BE	8870	Kachtem	Vlaanderen	VLG	Flandre-Occidentale	VWV	Roeselare	36	50.9334	3.1942	4
+BE	8880	Ledegem	Vlaanderen	VLG	Flandre-Occidentale	VWV	Roeselare	36	50.8579	3.1241	4
 BE	8880	Rollegem-Kapelle	Vlaanderen	VLG	Flandre-Occidentale	VWV	Roeselare	36	50.8687	3.1464	4
 BE	8880	Sint-Eloois-Winkel	Vlaanderen	VLG	Flandre-Occidentale	VWV	Roeselare	36	50.8759	3.1814	4
-BE	8880	Ledegem	Vlaanderen	VLG	Flandre-Occidentale	VWV	Roeselare	36	50.8579	3.1241	4
 BE	8890	Dadizele	Vlaanderen	VLG	Flandre-Occidentale	VWV	Roeselare	36	50.8514	3.0947	4
 BE	8890	Moorslede	Vlaanderen	VLG	Flandre-Occidentale	VWV	Roeselare	36	50.8919	3.0612	4
 BE	8900	Ieper	Vlaanderen	VLG	Flandre-Occidentale	VWV	Ieper	33	50.8511	2.8857	4
@@ -1172,9 +1172,9 @@ BE	8904	Boezinge	Vlaanderen	VLG	Flandre-Occidentale	VWV	Ieper	33	50.8967	2.8542	
 BE	8904	Zuidschote	Vlaanderen	VLG	Flandre-Occidentale	VWV	Ieper	33	50.9159	2.8374	4
 BE	8906	Elverdinge	Vlaanderen	VLG	Flandre-Occidentale	VWV	Ieper	33	50.8848	2.8171	4
 BE	8908	Vlamertinge	Vlaanderen	VLG	Flandre-Occidentale	VWV	Ieper	33	50.8549	2.8202	4
+BE	8920	Langemark	Vlaanderen	VLG	Flandre-Occidentale	VWV	Ieper	33	50.9131	2.9196	4
 BE	8920	Poelkapelle	Vlaanderen	VLG	Flandre-Occidentale	VWV	Ieper	33	50.9179	2.9568	4
 BE	8920	Bikschote	Vlaanderen	VLG	Flandre-Occidentale	VWV	Ieper	33	50.9279	2.8627	4
-BE	8920	Langemark	Vlaanderen	VLG	Flandre-Occidentale	VWV	Ieper	33	50.9131	2.9196	4
 BE	8920	Langemark-Poelkapelle	Vlaanderen	VLG	Flandre-Occidentale	VWV	Ieper	33	50.9197	2.913	3
 BE	8930	Menen	Vlaanderen	VLG	Flandre-Occidentale	VWV	Kortrijk	34	50.7972	3.1224	4
 BE	8930	Lauwe	Vlaanderen	VLG	Flandre-Occidentale	VWV	Kortrijk	34	50.7948	3.1869	4
@@ -1253,19 +1253,19 @@ BE	1367	Gérompont	Wallonie	WAL	Brabant Wallon	WBR	Nivelles	25	50.6481	4.8814	4
 BE	1367	Ramillies	Wallonie	WAL	Brabant Wallon	WBR	Nivelles	25	50.6339	4.9012	4
 BE	1367	Autre-Eglise	Wallonie	WAL	Brabant Wallon	WBR	Nivelles	25	50.6692	4.9038	4
 BE	1367	Bomal	Wallonie	WAL	Brabant Wallon	WBR	Nivelles	25	50.6701	4.8732	4
+BE	1370	Jodoigne	Wallonie	WAL	Brabant Wallon	WBR	Nivelles	25	50.7236	4.8691	4
 BE	1370	Mélin	Wallonie	WAL	Brabant Wallon	WBR	Nivelles	25	50.74	4.8288	4
 BE	1370	Saint-Remy-Geest	Wallonie	WAL	Brabant Wallon	WBR	Nivelles	25	50.7469	4.8585	4
 BE	1370	Lathuy	Wallonie	WAL	Brabant Wallon	WBR	Nivelles	25	50.7246	4.8262	4
 BE	1370	Saint-Jean-Geest	Wallonie	WAL	Brabant Wallon	WBR	Nivelles	25	50.7401	4.8965	4
 BE	1370	Piétrain	Wallonie	WAL	Brabant Wallon	WBR	Nivelles	25	50.7253	4.9203	4
 BE	1370	Jauchelette	Wallonie	WAL	Brabant Wallon	WBR	Nivelles	25	50.6867	4.8436	4
-BE	1370	Jodoigne	Wallonie	WAL	Brabant Wallon	WBR	Nivelles	25	50.7236	4.8691	4
 BE	1370	Jodoigne-Souveraine	Wallonie	WAL	Brabant Wallon	WBR	Nivelles	25	50.7094	4.8376	4
 BE	1370	Dongelberg	Wallonie	WAL	Brabant Wallon	WBR	Nivelles	25	50.7034	4.82	4
 BE	1370	Zétrud-Lumay	Wallonie	WAL	Brabant Wallon	WBR	Nivelles	25	50.7571	4.8871	4
+BE	1380	Lasne	Wallonie	WAL	Brabant Wallon	WBR	Nivelles	25	50.6875	4.4816	4
 BE	1380	Lasne-Chapelle-Saint-Lambert	Wallonie	WAL	Brabant Wallon	WBR	Nivelles	25	50.693	4.501	4
 BE	1380	Maransart	Wallonie	WAL	Brabant Wallon	WBR	Nivelles	25	50.6597	4.4669	4
-BE	1380	Lasne	Wallonie	WAL	Brabant Wallon	WBR	Nivelles	25	50.6875	4.4816	4
 BE	1380	Couture-Saint-Germain	Wallonie	WAL	Brabant Wallon	WBR	Nivelles	25	50.6748	4.4726	4
 BE	1380	Ohain	Wallonie	WAL	Brabant Wallon	WBR	Nivelles	25	50.6988	4.4698	4
 BE	1380	Plancenoit	Wallonie	WAL	Brabant Wallon	WBR	Nivelles	25	50.6623	4.4283	4
@@ -1352,9 +1352,9 @@ BE	6180	Courcelles	Wallonie	WAL	Hainaut	WHT	Charleroi	52	50.4638	4.3747	4
 BE	6181	Gouy-Lez-Piéton	Wallonie	WAL	Hainaut	WHT	Charleroi	52	50.4907	4.3289	4
 BE	6182	Souvret	Wallonie	WAL	Hainaut	WHT	Charleroi	52	50.4486	4.3457	4
 BE	6183	Trazegnies	Wallonie	WAL	Hainaut	WHT	Charleroi	52	50.4638	4.3329	4
+BE	6200	Châtelineau	Wallonie	WAL	Hainaut	WHT	Charleroi	52	50.415	4.5202	4
 BE	6200	Bouffioulx	Wallonie	WAL	Hainaut	WHT	Charleroi	52	50.3912	4.5155	4
 BE	6200	Châtelet	Wallonie	WAL	Hainaut	WHT	Charleroi	52	50.4034	4.5283	4
-BE	6200	Châtelineau	Wallonie	WAL	Hainaut	WHT	Charleroi	52	50.415	4.5202	4
 BE	6210	Frasnes-Lez-Gosselies	Wallonie	WAL	Hainaut	WHT	Charleroi	52	50.5384	4.4523	4
 BE	6210	Rèves	Wallonie	WAL	Hainaut	WHT	Charleroi	52	50.5381	4.4108	4
 BE	6210	Wayaux	Wallonie	WAL	Hainaut	WHT	Charleroi	52	50.4896	4.4732	4
@@ -1383,9 +1383,9 @@ BE	6250	Aiseau-Presles	Wallonie	WAL	Hainaut	WHT	Charleroi	52	50.4082	4.5822	4
 BE	6250	Pont-De-Loup	Wallonie	WAL	Hainaut	WHT	Charleroi	52	50.4166	4.5459	4
 BE	6250	Aiseau	Wallonie	WAL	Hainaut	WHT	Charleroi	52	50.4116	4.5867	4
 BE	6250	Roselies	Wallonie	WAL	Hainaut	WHT	Charleroi	52	50.4303	4.572	4
+BE	6280	Gerpinnes	Wallonie	WAL	Hainaut	WHT	Charleroi	52	50.3379	4.5273	4
 BE	6280	Loverval	Wallonie	WAL	Hainaut	WHT	Charleroi	52	50.3752	4.4733	4
 BE	6280	Acoz	Wallonie	WAL	Hainaut	WHT	Charleroi	52	50.359	4.5326	4
-BE	6280	Gerpinnes	Wallonie	WAL	Hainaut	WHT	Charleroi	52	50.3379	4.5273	4
 BE	6280	Gougnies	Wallonie	WAL	Hainaut	WHT	Charleroi	52	50.3554	4.5761	4
 BE	6280	Villers-Poterie	Wallonie	WAL	Hainaut	WHT	Charleroi	52	50.3538	4.5489	4
 BE	6280	Joncret	Wallonie	WAL	Hainaut	WHT	Charleroi	52	50.3537	4.5135	4
@@ -1582,8 +1582,8 @@ BE	7350	Hensies	Wallonie	WAL	Hainaut	WHT	Mons	53	50.4326	3.6841	4
 BE	7350	Montroeul-Sur-Haine	Wallonie	WAL	Hainaut	WHT	Mons	53	50.4382	3.7059	4
 BE	7350	Thulin	Wallonie	WAL	Hainaut	WHT	Mons	53	50.4301	3.7401	4
 BE	7350	Hainin	Wallonie	WAL	Hainaut	WHT	Mons	53	50.4295	3.7666	4
-BE	7370	Elouges	Wallonie	WAL	Hainaut	WHT	Mons	53	50.4024	3.7517	4
 BE	7370	Dour	Wallonie	WAL	Hainaut	WHT	Mons	53	50.3958	3.7779	4
+BE	7370	Elouges	Wallonie	WAL	Hainaut	WHT	Mons	53	50.4024	3.7517	4
 BE	7370	Blaugies	Wallonie	WAL	Hainaut	WHT	Mons	53	50.3722	3.8058	4
 BE	7370	Wihéries	Wallonie	WAL	Hainaut	WHT	Mons	53	50.3854	3.7537	4
 BE	7380	Quiévrain	Wallonie	WAL	Hainaut	WHT	Mons	53	50.4074	3.6835	4
@@ -1600,8 +1600,8 @@ BE	7387	Montignies-Sur-Roc	Wallonie	WAL	Hainaut	WHT	Mons	53	50.37	3.7317	4
 BE	7387	Angreau	Wallonie	WAL	Hainaut	WHT	Mons	53	50.3508	3.6915	4
 BE	7387	Angre	Wallonie	WAL	Hainaut	WHT	Mons	53	50.3658	3.6954	4
 BE	7387	Athis	Wallonie	WAL	Hainaut	WHT	Mons	53	50.3635	3.7745	4
-BE	7390	Wasmuel	Wallonie	WAL	Hainaut	WHT	Mons	53	50.4449	3.8481	4
 BE	7390	Quaregnon	Wallonie	WAL	Hainaut	WHT	Mons	53	50.4407	3.8653	4
+BE	7390	Wasmuel	Wallonie	WAL	Hainaut	WHT	Mons	53	50.4449	3.8481	4
 BE	7500	Tournai	Wallonie	WAL	Hainaut	WHT	Tournai	57	50.6071	3.3893	4
 BE	7500	Ere	Wallonie	WAL	Hainaut	WHT	Tournai	57	50.5823	3.3676	4
 BE	7500	Saint-Maur	Wallonie	WAL	Hainaut	WHT	Tournai	57	50.5727	3.3947	4
