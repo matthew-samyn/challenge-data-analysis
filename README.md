@@ -19,23 +19,12 @@ In this repository you will find all the data we collected and all the code we u
 * scipy
 
 # Usage
-+--------------------------------------+-----------------------------------------------------------+
 | Filename                             | Usage                                                     |
-+======================================+===========================================================+
-| Immo_Elisa_house_data_analysis.ipynb | Jupyer Notebook file containing Python code.              |
-|                                      |                                                           |
-|                                      | Used to clean the data.                                   |
-|                                      |                                                           |
-|                                      | Used to draw plots and do preliminary analysis.           |
-+--------------------------------------+-----------------------------------------------------------+
-| house_data_ultimate_cleaned.csv      | File containing data of houses for sale, in Belgium.      |
-|                                      |                                                           |
-|                                      | Contains price, area, building state, etc...              |
-+--------------------------------------+-----------------------------------------------------------+
-| Belgium_zip_municipalities.txt       | File containing data on Belgium.                          |
-|                                      |                                                           |
-|                                      | Contains zip-codes, city names, longitude and langitudes. |
-+--------------------------------------+-----------------------------------------------------------+
+|--------------------------------------|-----------------------------------------------------------|
+| Immo_Elisa_house_data_analysis.ipynb | Jupyer Notebook file containing Python code.<br>Used to clean the data.<br>Used to draw plots and do preliminary analysis. |
+| house_data_ultimate_cleaned.csv      | File containing data of houses for sale, in Belgium.<br>Contains price, area, building state, etc... |
+| Belgium_zip_municipalities.txt       | File containing data on Belgium.<br>Contains zip-codes, city names, longitude and langitudes. |
+
 
 
 
@@ -57,15 +46,13 @@ The size and color depends on the price per square meter of that area.
 
 
 # Contributors
-+----------------+------------------------------------+
-| Name           | GitHub                             |
-+================+====================================+
-| Jayesh Italiya | https://github.com/lvendrix        |
-+----------------+------------------------------------+
-| Logan Vendrix  | https://github.com/JayeshItaliya86 |
-+----------------+------------------------------------+
-| Matthew Samyn  | https://github.com/matthew-samyn   |
-+----------------+------------------------------------+
+| Name           | GitHub                                                                              |
+|----------------|-------------------------------------------------------------------------------------|
+| Jayesh Italiya | <a href="https://github.com/lvendrix">https://github.com/lvendrix               |
+| Logan Vendrix  | <a href="https://github.com/JayeshItaliya86">https://github.com/JayeshItaliya86 |
+| Matthew Samyn  | <a href="https://github.com/matthew-samyn">https://github.com/matthew-samyn    |
+
+
 
 # Timeline
 28/06/2021 - 30/06/2021
