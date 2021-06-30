@@ -1,60 +1,71 @@
-# challenge-data-analysis
+# Description
+This is a job we received from the real estate company "ImmoEliza".   
+The goal was to gather as much knowledge of the real estate market in Belgium.   
+For this we were handed a database on all the houses for sale, on 16/06/2021.   
+In this repository you will find all the data we collected and all the code we used,     along with our findings.   
 
-# Cleaning the data
+# Installation
 
-area: Removed NaN
-
-price: Untouched
-
-state_of_building:  
-	as_new = 4  
-	just_renovated = 3  
-	good = 2  
-	to renovate = 1  
-	to be done up = 1  
-	to restore = 1  
-
-facades = Untouched  
-
-bedrooms = Untouched, 1 big outlier  
-
-fully_equipped_kitchen:
-	installed = 2  
-	usa installed = 2  
-	hyper equipped = 4  
-	usa hyper equipped = 4  
-	semi equipped = 3  
-	usa semi equipped = 3  
-	not installed = 1  
-	usa installed = 1  
-
-furnished:
-	yes = 1  
-	no = 0  
-
-open_fire:
-	yes = 1  
-	no = 0  
-
-zip_code: Untouched  
-
-land_surface: Untouched  
-
-terrace: Untouched  
-
-terrace_surface: Untouched  
-
-swimming_pool:  
-	yes = 1  
-	no = 0  
-
-type_property = Untouched  
-
-subtype_property = Untouched  
-
-garden: Untouched  
-
-garden_surface: Untouched  
+## Python version
+* Python 3.9
 
 
-	
+## Packages used
+* pandas
+* numpy
+* matplotlib.pyplot
+* seaborn
+* plotly.express
+* scipy
+
+# Usage
++--------------------------------------+-----------------------------------------------------------+
+| Filename                             | Usage                                                     |
++======================================+===========================================================+
+| Immo_Elisa_house_data_analysis.ipynb | Jupyer Notebook file containing Python code.              |
+|                                      |                                                           |
+|                                      | Used to clean the data.                                   |
+|                                      |                                                           |
+|                                      | Used to draw plots and do preliminary analysis.           |
++--------------------------------------+-----------------------------------------------------------+
+| house_data_ultimate_cleaned.csv      | File containing data of houses for sale, in Belgium.      |
+|                                      |                                                           |
+|                                      | Contains price, area, building state, etc...              |
++--------------------------------------+-----------------------------------------------------------+
+| Belgium_zip_municipalities.txt       | File containing data on Belgium.                          |
+|                                      |                                                           |
+|                                      | Contains zip-codes, city names, longitude and langitudes. |
++--------------------------------------+-----------------------------------------------------------+
+
+
+
+
+# Visuals
+## Map of Belgium
+Each dot represents a municipality of Belgium.  
+The size and color depends on the price per square meter of that area.  
+
+![](Belgium_price_per_sqm_mean.png)
+
+## Heatmap showing correlation between data
+
+![](Heatmap_showing_correlations.png)
+
+## Plot showing correlation between regions
+
+![](buildingstate_price_regions.png)
+
+
+# Contributors
++----------------+------------------------------------+
+| Name           | GitHub                             |
++================+====================================+
+| Jayesh Italiya | https://github.com/lvendrix        |
++----------------+------------------------------------+
+| Logan Vendrix  | https://github.com/JayeshItaliya86 |
++----------------+------------------------------------+
+| Matthew Samyn  | https://github.com/matthew-samyn   |
++----------------+------------------------------------+
+
+# Timeline
+28/06/2021 - 30/06/2021
