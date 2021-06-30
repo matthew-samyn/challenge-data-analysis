@@ -40,7 +40,7 @@ The size and color depends on the price per square meter of that area.
 
 ![](Heatmap_showing_correlations.png)
 
-## Plot showing correlation between regions
+## Plot showing correlation between state of the building vs Region vs Price
 
 ![](buildingstate_price_regions.png)
 
@@ -48,8 +48,8 @@ The size and color depends on the price per square meter of that area.
 # Contributors
 | Name           | GitHub                                                                              |
 |----------------|-------------------------------------------------------------------------------------|
-| Jayesh Italiya | <a href="https://github.com/lvendrix">https://github.com/lvendrix               |
-| Logan Vendrix  | <a href="https://github.com/JayeshItaliya86">https://github.com/JayeshItaliya86 |
+| Jayesh Italiya | <a href="https://github.com/lvendrix">https://github.com/JayeshItaliya86               |
+| Logan Vendrix  | <a href="https://github.com/JayeshItaliya86">https://github.com/lvendrix
 | Matthew Samyn  | <a href="https://github.com/matthew-samyn">https://github.com/matthew-samyn    |
 
 
